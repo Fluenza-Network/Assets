@@ -10,3 +10,4 @@ map information:
 tumbleweed [mango_, paraspider]
 tumbleweed 2 [paraspider]
 office rush [paraspider]
+marinara beach [paraspider]

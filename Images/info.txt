@@ -1,0 +1,11 @@
+online-image-editor resize: 288x153
+
+minecraft-skin-viewer size:
+image size [5]
+vert rotate [150]
+hori rotate [150]
+head rotate [190]
+
+map information:
+tumbleweed [mango_, paraspider]
+tumbleweed 2 [paraspider]
